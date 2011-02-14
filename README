@@ -1,0 +1,17 @@
+# lein-clobber
+
+            Clobber files and directories
+
+## Usage
+
+            $ lein clobber
+
+## Installation
+
+            $ lein plugin install lein-clobber 1.0.0
+            Add the following line to your project.clj:
+              :clobber ["specific.jar", "*a_wildcard_file.gz", "a_directory", "a_dir/*.log"]
+
+## License
+
+            Licensed under the EPL; the same license as Clojure.
