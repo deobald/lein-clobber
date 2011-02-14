@@ -2,6 +2,11 @@
 
             Clobber files and directories
 
+## Hacking
+
+            To publish:
+            $ lein pom && lein jar && lein push
+
 ## Usage
 
             $ lein clobber
