@@ -1,4 +1,4 @@
-(defproject lein-fig/lein-fig "1.0.0"
+(defproject lein-clobber/lein-clobber "1.0.0"
   :description "Clobber files in your build."
   
   :eval-in-leiningen true
