@@ -1,5 +1,5 @@
 (defproject lein-clobber/lein-clobber "1.0.1"
-  :description "Clobber files in your build."
+  :description "Delete files and directories"
   
   :eval-in-leiningen true
   :min-lein-version "1.5.0"

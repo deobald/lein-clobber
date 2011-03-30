@@ -1,4 +1,4 @@
-(ns leiningen.clobber "clobber"
+(ns leiningen.clobber "Delete files and directories"
     (:use [leiningen.clean]
           [lancet.core :only [delete fileset]]
           [clojure.contrib.io :only [file]]))
