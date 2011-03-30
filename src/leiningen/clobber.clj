@@ -1,6 +1,6 @@
 (ns leiningen.clobber "clobber"
     (:use [leiningen.clean]
-          [lancet :only [delete fileset]]
+          [lancet.core :only [delete fileset]]
           [clojure.contrib.io :only [file]]))
 
 (defn dir? [f]
